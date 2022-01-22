@@ -1,0 +1,15 @@
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/degisken.deps.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/degisken.runtimeconfig.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/degisken.runtimeconfig.dev.json
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/degisken.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/ref/degisken.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/bin/Debug/net5.0/degisken.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.csproj.AssemblyReference.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.AssemblyInfoInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.AssemblyInfo.cs
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.csproj.CoreCompileInputs.cache
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/ref/degisken.dll
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.pdb
+/Users/Fatih/Documents/Dev/Patika/DotNetCore1/degisken/obj/Debug/net5.0/degisken.genruntimeconfig.cache
